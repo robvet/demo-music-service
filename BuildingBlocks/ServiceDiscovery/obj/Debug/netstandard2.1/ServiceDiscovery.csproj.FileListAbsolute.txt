@@ -1,0 +1,65 @@
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.deps.json
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.AssemblyReference.cache
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfoInputs.cache
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfo.cs
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CoreCompileInputs.cache
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CopyComplete
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.deps.json
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.dll
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.pdb
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.AssemblyReference.cache
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfoInputs.cache
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfo.cs
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CopyComplete
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.deps.json
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.AssemblyReference.cache
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfoInputs.cache
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfo.cs
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CoreCompileInputs.cache
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CopyComplete
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.deps.json
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.AssemblyReference.cache
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfoInputs.cache
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfo.cs
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CoreCompileInputs.cache
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CopyComplete
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.deps.json
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.AssemblyReference.cache
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfoInputs.cache
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfo.cs
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CoreCompileInputs.cache
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CopyComplete
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.pdb

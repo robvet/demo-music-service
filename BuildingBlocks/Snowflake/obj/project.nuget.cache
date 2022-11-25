@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SLwUD7fHJlmp2Jv3T91pTTjwxFCwHd6yBYQWn0+OZtY2eZSSXP5kEsLL6eBd2OBryLgIRaTRGw38K8cEd7YvVA==",
+  "success": true,
+  "projectFilePath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Snowflake\\Snowflake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robvet\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\robvet\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

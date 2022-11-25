@@ -1,0 +1,75 @@
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.deps.json
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.dll
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.pdb
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.AssemblyReference.cache
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfoInputs.cache
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfo.cs
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CoreCompileInputs.cache
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CopyComplete
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.dll
+C:\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.pdb
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.deps.json
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.dll
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.pdb
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.dll
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.pdb
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.AssemblyReference.cache
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfoInputs.cache
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfo.cs
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CoreCompileInputs.cache
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CopyComplete
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.dll
+C:\Users\robvet\OneDrive - Microsoft\_vetMTC\ReferenceArch\Microservices\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.deps.json
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.dll
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.AssemblyReference.cache
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfoInputs.cache
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfo.cs
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CoreCompileInputs.cache
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CopyComplete
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.dll
+C:\_vet\_vetCode\MicroservicesPLUS\architectingmicroservices\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.deps.json
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.dll
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.AssemblyReference.cache
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfoInputs.cache
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfo.cs
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CoreCompileInputs.cache
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CopyComplete
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.dll
+C:\_vet\_vetCode\MicroservicesPLUS\microtunes23\src\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.AssemblyReference.cache
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfoInputs.cache
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.AssemblyInfo.cs
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CoreCompileInputs.cache
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.dll
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.deps.json
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.dll
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\RestCommunication.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\RestCommunication\obj\Debug\netstandard2.1\RestCommunication.csproj.CopyComplete

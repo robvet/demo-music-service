@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ServiceDiscovery
+build_property.ProjectDir = C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\
