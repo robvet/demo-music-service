@@ -63,3 +63,16 @@ C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDisc
 C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CopyComplete
 C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.dll
 C:\_vet\_vetCode\__demos\demo-music-service\container\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.deps.json
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\ServiceDiscovery.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.dll
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\bin\Debug\netstandard2.1\Utilities.pdb
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.AssemblyReference.cache
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfoInputs.cache
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.AssemblyInfo.cs
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CoreCompileInputs.cache
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.csproj.CopyComplete
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.dll
+C:\_vet\_vetCode\__demos\demo-music-service\BuildingBlocks\ServiceDiscovery\obj\Debug\netstandard2.1\ServiceDiscovery.pdb

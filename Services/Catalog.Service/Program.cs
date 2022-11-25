@@ -26,23 +26,31 @@ namespace Catalog.API
             return Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    // https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-6.0#capture-startup-errors
+                    webBuilder.CaptureStartupErrors(true);
+
+                https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-7.0#detailed-errors
+                    webBuilder.UseSetting(WebHostDefaults.DetailedErrorsKey, "true");
+                    
                     webBuilder.UseStartup<Startup>();
+           
                     //webBuilder.UseUrls("http://localhost:8082");
                     webBuilder.UseKestrel();
-                    webBuilder.CaptureStartupErrors(true);
+
+
                     webBuilder.ConfigureAppConfiguration((builderContext, config) =>
                     {
                         config.AddEnvironmentVariables();
-                        var keyVaultEndpoint = GetKeyVaultEndpoint();
-                        if (!string.IsNullOrEmpty(keyVaultEndpoint))
-                        {
-                            var azureServiceTokenProvider = new AzureServiceTokenProvider();
-                            var keyVaultClient = new KeyVaultClient(
-                                new KeyVaultClient.AuthenticationCallback(
-                                    azureServiceTokenProvider.KeyVaultTokenCallback));
-                            config.AddAzureKeyVault(
-                                keyVaultEndpoint, keyVaultClient, new DefaultKeyVaultSecretManager());
-                        }
+                        //var keyVaultEndpoint = GetKeyVaultEndpoint();
+                        //if (!string.IsNullOrEmpty(keyVaultEndpoint))
+                        //{
+                        //    var azureServiceTokenProvider = new AzureServiceTokenProvider();
+                        //    var keyVaultClient = new KeyVaultClient(
+                        //        new KeyVaultClient.AuthenticationCallback(
+                        //            azureServiceTokenProvider.KeyVaultTokenCallback));
+                        //    config.AddAzureKeyVault(
+                        //        keyVaultEndpoint, keyVaultClient, new DefaultKeyVaultSecretManager());
+                        //}
                     });
                 });
         }

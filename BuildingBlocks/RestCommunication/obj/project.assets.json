@@ -1090,11 +1090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj",
+      "projectUniqueName": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj",
       "projectName": "RestCommunication",
-      "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj",
+      "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj",
       "packagesPath": "C:\\Users\\robvet\\.nuget\\packages\\",
-      "outputPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\RestCommunication\\obj\\",
+      "outputPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\RestCommunication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1115,11 +1115,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\ServiceDiscovery\\ServiceDiscovery.csproj": {
-              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\ServiceDiscovery\\ServiceDiscovery.csproj"
+            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\ServiceDiscovery\\ServiceDiscovery.csproj": {
+              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\ServiceDiscovery\\ServiceDiscovery.csproj"
             },
-            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Utilities\\Utilities.csproj"
+            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Utilities\\Utilities.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hpf+7sRINN2w2WaDGFbflIJsOLcWjcgcqOq9uFTnWrom5fVtgNQNyOAP7NNEu+oQJjp4SyfL2fdkQE62kvn+ZQ==",
+  "dgSpecHash": "jCzRZq79OVyfs7XMQekGpeoXnfJNp5PlpNRJyRvD5AU4G6exYJpP0rJ3GqG1VCmj5jPBzQp0W8ZddkjkvF/12g==",
   "success": true,
-  "projectFilePath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\Services\\Catalog.Service\\Catalog.API.csproj",
+  "projectFilePath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\Services\\Catalog.Service\\Catalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robvet\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\robvet\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

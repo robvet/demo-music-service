@@ -11,36 +11,38 @@ namespace Catalog.API.Extensions
         public static IServiceCollection RegisterRelationalDatabase(this IServiceCollection services,
             IConfiguration configuration)
         {
-            var configInMemory = configuration["Data:UseInMemoryStore"] != null &&
+            var useInMemoryStore = configuration["Data:UseInMemoryStore"] != null &&
                                  configuration["Data:UseInMemoryStore"]
                                      .Equals("true", StringComparison.OrdinalIgnoreCase);
 
-            var useInMemoryStore = configInMemory;
+            //var useInMemoryStore = configInMemory;
             // 1/16/2020 - lw- connection string now pulled from Azure Key Vault
             //var connectionString = configuration["catalogdbsecret"] ??
             //                       throw new ArgumentNullException("Connection string for Catalog database is Null");
 
-            var connectionString = configuration["catalogdbsecret"];
-
-
-
-
-            if (useInMemoryStore || string.IsNullOrEmpty(connectionString))
+            if (useInMemoryStore)
+            { 
                 services.AddEntityFrameworkInMemoryDatabase()
                     .AddDbContext<DataContext>(options => { options.UseInMemoryDatabase(Guid.NewGuid().ToString()); });
-            else
-                services.AddEntityFrameworkSqlServer()
-                    .AddDbContext<DataContext>(options =>
+                return services;
+            }
+
+            var connectionString = configuration["catalogdbsecret"] ??
+                                       throw new ArgumentNullException("catalogdbsecret",
+                                           "Data store connection string for catalog missing");
+
+            services.AddEntityFrameworkSqlServer()
+                .AddDbContext<DataContext>(options =>
+                {
+                    options.UseSqlServer(connectionString, sqlOptions =>
                     {
-                        options.UseSqlServer(connectionString, sqlOptions =>
-                        {
-                            sqlOptions.CommandTimeout(45)
-                                .EnableRetryOnFailure(
-                                    3,
-                                    TimeSpan.FromSeconds(15),
-                                    null);
-                        });
+                        sqlOptions.CommandTimeout(45)
+                            .EnableRetryOnFailure(
+                                3,
+                                TimeSpan.FromSeconds(15),
+                                null);
                     });
+                });
 
 
             //if (configuration == null)

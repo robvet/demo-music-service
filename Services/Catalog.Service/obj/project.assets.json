@@ -11581,11 +11581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\Services\\Catalog.Service\\Catalog.API.csproj",
+      "projectUniqueName": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\Services\\Catalog.Service\\Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\Services\\Catalog.Service\\Catalog.API.csproj",
+      "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\Services\\Catalog.Service\\Catalog.API.csproj",
       "packagesPath": "C:\\Users\\robvet\\.nuget\\packages\\",
-      "outputPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\Services\\Catalog.Service\\obj\\",
+      "outputPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\Services\\Catalog.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11606,17 +11606,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj": {
-              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj"
+            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj": {
+              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj"
             },
-            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\ServiceDiscovery\\ServiceDiscovery.csproj": {
-              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\ServiceDiscovery\\ServiceDiscovery.csproj"
+            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\ServiceDiscovery\\ServiceDiscovery.csproj": {
+              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\ServiceDiscovery\\ServiceDiscovery.csproj"
             },
-            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Snowflake\\Snowflake.csproj": {
-              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Snowflake\\Snowflake.csproj"
+            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Snowflake\\Snowflake.csproj": {
+              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Snowflake\\Snowflake.csproj"
             },
-            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Utilities\\Utilities.csproj": {
-              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Utilities\\Utilities.csproj"
+            "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Utilities\\Utilities.csproj"
             }
           }
         }

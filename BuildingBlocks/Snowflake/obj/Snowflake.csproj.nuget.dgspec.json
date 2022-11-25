@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Snowflake\\Snowflake.csproj": {}
+    "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Snowflake\\Snowflake.csproj": {}
   },
   "projects": {
-    "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Snowflake\\Snowflake.csproj": {
+    "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Snowflake\\Snowflake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Snowflake\\Snowflake.csproj",
+        "projectUniqueName": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Snowflake\\Snowflake.csproj",
         "projectName": "Snowflake",
-        "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Snowflake\\Snowflake.csproj",
+        "projectPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Snowflake\\Snowflake.csproj",
         "packagesPath": "C:\\Users\\robvet\\.nuget\\packages\\",
-        "outputPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\Snowflake\\obj\\",
+        "outputPath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\Snowflake\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PXYQ8xAk/Xs4T/nfi4BOmAKX5NO2QpFNVtlBn50hxNrOVwvPp1tV451rj13jpptM/DDfm0lwhFn0YlF7ucY7aQ==",
+  "dgSpecHash": "ff+mgxVu0HTcnl5uWmu9KsJkfqDm0jMBMTgN8et9gUdbYyRYb2KNgNDHo5NwNBYwKho9thFLpdqi8flh08TS3Q==",
   "success": true,
-  "projectFilePath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\container\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj",
+  "projectFilePath": "C:\\_vet\\_vetCode\\__demos\\demo-music-service\\BuildingBlocks\\RestCommunication\\RestCommunication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\robvet\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
     "C:\\Users\\robvet\\.nuget\\packages\\google.protobuf.tools\\3.11.4\\google.protobuf.tools.3.11.4.nupkg.sha512",
