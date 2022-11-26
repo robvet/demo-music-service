@@ -6,7 +6,6 @@ using Catalog.API.Filters;
 using Catalog.API.Infrastructure.DataStore;
 using Catalog.API.Infrastructure.Repository;
 using Microsoft.ApplicationInsights.DependencyCollector;
-using Microsoft.ApplicationInsights.Extensibility;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -64,7 +63,7 @@ namespace Catalog.API
                     Title = "Product Catalog API",
                     Version = "v1",
                     Description =
-                        "Exposed as microservice for the Microsoft ActivateAzure with Microservices and Containers Workshop. Manages Catalog items."
+                        "Demo API Service -- Microsoft Technology Centers"
                 });
 
                 c.OperationFilter<SwaggerCustomerFilter>();

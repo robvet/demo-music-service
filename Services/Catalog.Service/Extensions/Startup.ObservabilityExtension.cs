@@ -17,7 +17,7 @@ namespace Catalog.API.Extensions
             {
                 x.InstrumentationKey = configuration["aiinstrumkeysecret"] ??
                                        throw new ArgumentNullException("aiinstrumkeysecret",
-                                           "AppInsights instrumentation key for Basket missing");
+                                           "AppInsights instrumentation key for Catalog missing");
                 x.DeveloperMode = true;
             });
 

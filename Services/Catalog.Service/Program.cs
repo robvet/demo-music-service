@@ -29,14 +29,15 @@ namespace Catalog.API
                     // https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-6.0#capture-startup-errors
                     webBuilder.CaptureStartupErrors(true);
 
-                https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-7.0#detailed-errors
+                    //https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/web-host?view=aspnetcore-7.0#detailed-errors
                     webBuilder.UseSetting(WebHostDefaults.DetailedErrorsKey, "true");
-                    
-                    webBuilder.UseStartup<Startup>();
-           
-                    //webBuilder.UseUrls("http://localhost:8082");
-                    webBuilder.UseKestrel();
 
+                    //webBuilder.UseUrls("http://localhost:8082");
+                    //webBuilder.UseKestrel();
+                    //webBuilder.UseKestrel(serverOptions => serverOptions.AddServerHeader = false);
+                    //webBuilder.UseIISIntegration();
+
+                    webBuilder.UseStartup<Startup>();
 
                     webBuilder.ConfigureAppConfiguration((builderContext, config) =>
                     {

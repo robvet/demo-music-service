@@ -37,7 +37,7 @@ namespace Catalog.API.Controllers
         [ProducesResponseType(typeof(List<Product>), 200)]
         [HttpGet("Music", Name = "GetAllMusicRoute")]
         public async Task<IActionResult> GetAllMusic([FromHeader(Name = "x-correlationToken")]
-            string correlationToken)
+            string correlationToken="123")
         {
             if (string.IsNullOrEmpty(correlationToken))
                 return BadRequest("CorrelationToken not present");
@@ -58,7 +58,7 @@ namespace Catalog.API.Controllers
         [ProducesResponseType(typeof(Product), 200)]
         [HttpGet("Music/{id}", Name = "GetMusicRoute")]
         public async Task<IActionResult> GetMusic(int id, [FromHeader(Name = "x-correlationToken")]
-            string correlationToken)
+            string correlationToken="123")
         {
             if (string.IsNullOrEmpty(correlationToken))
                 return BadRequest("CorrelationToken not present");
@@ -81,7 +81,7 @@ namespace Catalog.API.Controllers
         [ProducesResponseType(typeof(Product), 200)]
         [HttpGet("TopSellingMusic/{count}", Name = "GetTopSellingMusicRoute")]
         public async Task<IActionResult> GetTopSellingMusic([FromHeader(Name = "x-correlationToken")]
-            string correlationToken, int count = TopSellingCount)
+            string correlationToken="123", int count = TopSellingCount)
         {
             Guard.ForNullOrEmpty(correlationToken, "correlationToken");
             Guard.ForLessEqualZero(count, "count");
