@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 using Catalog.API.Contracts;
@@ -228,5 +229,28 @@ namespace Catalog.API.Controllers
 
             return NoContent();
         }
+
+        ////// Use an existing token, for example from
+        ////// az account get-access-token --resource "https://database.windows.net"
+        ////[HttpGet]
+        ////[Route("token")]
+        ////public async Task<IActionResult> Token()
+        ////{
+        ////    string token = string.Empty;
+        ////    string authHeader = HttpContext.Request.Headers?["Authorization"];
+        ////    if (!string.IsNullOrEmpty(authHeader))
+        ////    {
+        ////        var authHeaderTokens = authHeader.Split(' ');
+        ////        if (authHeaderTokens.Count() == 2 && authHeaderTokens[0].Trim().ToLower() == "bearer")
+        ////            token = authHeaderTokens[1].Trim();
+        ////    }
+
+        ////    return new ObjectResult(token);
+            
+        ////    //return await RunQuery(async (conn) => {
+        ////    //    var qr = await conn.QuerySingleOrDefaultAsync<string>(_sql);
+        ////    //    return JsonDocument.Parse(qr).RootElement;
+        ////    //}, token);
+        ////}
     }
 }
