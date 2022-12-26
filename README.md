@@ -1,6 +1,8 @@
 # demo-music-service
 Simple API Service with Sql Database demo app
 
+Deploy .NET Core Binaries or as a Container.
+
 Need to provide following env vars:
 
  "catalogdbsecret": "<connection string for SqlDB>",
