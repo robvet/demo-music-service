@@ -1,6 +1,8 @@
 # demo-music-service
 Simple API Service with Sql Database demo app
 
+Use for quick demo to deploy API app with database and observability.
+
 Deploy .NET Core Binaries or as a Container.
 
 Need to provide following env vars:
