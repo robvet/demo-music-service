@@ -1,0 +1,53 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: catalog
+  labels:
+    deploy: catalog
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: catalog
+  template:
+    metadata:
+      labels:
+        app: catalog
+    spec:
+      containers:
+      - image: acr0demo0acr.azurecr.io/catalogapi:v2
+        imagePullPolicy: Always
+        name: catalog
+        ports:
+        - containerPort: 80
+          name: http
+          protocol: TCP
+        - containerPort: 443
+          name: https
+          protocol: TCP
+        env:
+        - name: WEB_SERVER_BASE_URI
+          value: 'http://0.0.0.0'
+        - name: ASPNETCORE_ENVIRONMENT
+          value: 'Development'
+        envFrom:
+        - secretRef:
+            name: demo-secret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: catalog
+spec:
+  type: LoadBalancer
+  selector:
+    app: catalog
+  ports:
+  - protocol: TCP
+    name: http
+    port: 80
+    targetPort: 80
+  - protocol: TCP
+    name: https
+    port: 443
+    targetPort: 443
