@@ -38,6 +38,10 @@ apiVersion: v1
 kind: Service
 metadata:
   name: catalog
+  metadata:
+  name: azure-vote-front
+  annotations:
+    service.beta.kubernetes.io/azure-dns-label-name: catalog-demo
 spec:
   type: LoadBalancer
   selector:
